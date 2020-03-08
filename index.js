@@ -6,7 +6,8 @@ function subtract(a,b){
   return a - b;
 }
 function multiple(a,b){
-  return a * b;
+  var result = a * b
+  return result;
 }
 function divide(a,b){
   return a / b;
