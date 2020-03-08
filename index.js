@@ -20,3 +20,7 @@ function increment(a){
 function decrement(a){
   return a - 1;
 }
+
+function makeInt(n){
+  return a - 1;
+}
